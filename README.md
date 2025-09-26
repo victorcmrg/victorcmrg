@@ -9,14 +9,19 @@
 
 ## 🚀 Meus Projetos
 
-### 🧠 Cognix Keyboard
-Criador do **Cognix Keyboard**, um teclado inteligente com foco open source, rodando em raspberryPI Zero 2 w integrado com Grook
+```bash
+🧠 Cognix Keyboard
+  Criador do Cognix Keyboard, um teclado inteligente com foco open source,
+  rodando em Raspberry Pi Zero 2 W integrado com Grook
 
-### 🌐 MajoriaCraft
-Fundador do **MajoriaCraft**, um servidor de Minecraft com foco em rpg e gameplay customizada
+🌐 MajoriaCraft
+  Fundador do MajoriaCraft, um servidor de Minecraft com foco em RPG e
+  gameplay customizada
 
-### 🦊 FOXworks
-Fundador de um grupo de FreeLancers ajudando em áras de Desing, web desing, modelagem 3d, edição de vídeo, entre outros.
+🦊 FOXworks
+  Fundador de um grupo de FreeLancers ajudando em áreas de Design,
+  Web Design, Modelagem 3D, Edição de Vídeo, entre outros
+```
 
 
 
