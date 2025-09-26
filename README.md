@@ -1,12 +1,12 @@
-# 👋 Hi there! I'm Victor
+# 👋 Hey yo!
 
-> Desenvolvedor full-stack, entusiasta de tecnologia, e sempre em busca de novos desafios.  
+> Desenvolvedor full-stack, entusiasta em tecnologia e cybersegurança, buscando mais conhecimento sobre o mundo tech  
 
 ---
 
 ## 🎓 Sobre mim
 
-Atualmente, sou estudante na **FECAP (Fundação Escola de Comércio Álvares Penteado)**, onde aprofundo meus conhecimentos em tecnologia, inovação e negócios.
+Atualmente como estudante na **[FECAP](https://www.fecap.br)** em Análise e desenvolvimento de sistema.
 
 ---
 
