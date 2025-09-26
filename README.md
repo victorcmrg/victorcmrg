@@ -4,9 +4,7 @@
 
  Atualmente como estudante na **[FECAP](https://www.fecap.br)** em Análise e desenvolvimento de sistema.
  Desenvolvedor full-stack, entusiasta em tecnologia e cybersegurança, buscando mais conhecimento sobre o mundo tech.
-‎‎‎‎‎‎‎‎ㅤ
-‎‎‎‎‎‎‎‎ㅤ
-‎‎‎‎‎‎‎‎ㅤ
+
 ---
 
 ## 🚀 Meus Projetos
