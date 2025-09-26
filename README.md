@@ -18,7 +18,7 @@ Fundador do **MajoriaCraft**, um servidor de Minecraft com foco em rpg e gamepla
 ### 🦊 FOXworks
 Fundador de um grupo de FreeLancers ajudando em áras de Desing, web desing, modelagem 3d, edição de vídeo, entre outros.
 
----
+
 
 ## 🛠 Tecnologias & Ferramentas
 
