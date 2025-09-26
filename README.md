@@ -35,12 +35,6 @@ Comunidade ativa, eventos e sistemas personalizados.
 
 ---
 
-## 📈 GitHub Stats
-
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorcmrg&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Vamos nos conectar!
 
 Quer trocar ideias, conversar sobre tecnologia, projetos open-source ou só bater um papo?
