@@ -44,5 +44,5 @@ Quer trocar ideias, conversar sobre tecnologia, projetos open-source ou só bate
 
 ---
 
-> *“Crie com propósito, codifique com paixão.”*
+> *“Pergunta pro chat”*
 
