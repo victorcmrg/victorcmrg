@@ -37,7 +37,7 @@ Comunidade ativa, eventos e sistemas personalizados.
 
 ## 📈 GitHub Stats
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight)
 
 ---
 
