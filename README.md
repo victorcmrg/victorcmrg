@@ -9,9 +9,9 @@
 
 ## 🚀 Meus Projetos
 
-```bash
+```
 🧠 Cognix Keyboard
-  Criador do [Cognix Keyboard](https://github.com/victorcmrg/victorcmrg/blob/main/README.md), um teclado inteligente com foco open source,
+  Criador do Cognix Keyboard, um teclado inteligente com foco open source,
   rodando em Raspberry Pi Zero 2 W integrado com Grook
 
 🌐 MajoriaCraft
