@@ -1,10 +1,6 @@
 # 👋 Hey yo!
 
-> Desenvolvedor full-stack, entusiasta em tecnologia e cybersegurança, buscando mais conhecimento sobre o mundo tech  
-
-
-
-
+ Desenvolvedor full-stack, entusiasta em tecnologia e cybersegurança, buscando mais conhecimento sobre o mundo tech  
 
 
 ## 🎓 Sobre mim
