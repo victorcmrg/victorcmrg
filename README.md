@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Meus Projetos
+### ⚙️ Meus Projetos
 
 ```
 ⌨️ Cognix Keyboard
